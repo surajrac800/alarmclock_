@@ -8,8 +8,6 @@ The query given to me is like :
 
 Clock face Clock showing the current time (seconds,mins,hrs should change as time changes)  Set Alarm Provide input boxes to set an alarm (hr,min,sec, am/pm) Once the sets the time and click “Set Alarm” button, add that alarm to the alarms list below When the alarm goes of just use JS alert function to alert in the browser  Alarms list Display a list of all the alarms set by user Delete alarm For each alarm give a delete button to delete the alarm.
 
-![image](https://user-images.githubusercontent.com/114986701/193788268-292244fc-40bc-4ffd-ba4a-f29453b6481e.png)
-
 In the Screenshot you can see that we have options for :
 1. Set the alarm
 2. Delete the alarm &
@@ -17,7 +15,6 @@ In the Screenshot you can see that we have options for :
 
 Once, the local time is matched with the alarm, it will show an alert message as well as start ringing the mp3 file. 
 It will look like this :
-![image](https://user-images.githubusercontent.com/114986701/193790119-0d4ebe5a-1fa4-458f-8022-2904f25c8246.png)
 
 Steps involve in making website :
 1. First, I have make a HTML file with the help of normal notepad in HTML5 version in a standard form.
